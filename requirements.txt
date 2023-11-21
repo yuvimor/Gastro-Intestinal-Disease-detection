@@ -2,4 +2,4 @@ streamlit
 gdown
 numpy
 opencv-python
-tensorflow
+tensorflow-cpu
