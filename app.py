@@ -1,6 +1,9 @@
 import streamlit as st
 from keras.models import load_model
 import gdown
+import os
+# Specify the display to use 
+os.environ['DISPLAY'] = ':1' 
 import cv2
 import numpy as np
 
